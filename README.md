@@ -1,6 +1,7 @@
-# Data Analytics 
+# My Resume
+## Data Analytics 
 
-## Who am I? 
+### Who am I? 
 * I am a result-driven and assiduous professional in Data analytics.
 * I am a seasoned skillsman with a broad range of analytical tools (R, Python, Excel) accompanied with critical & analytical thinking, business and commercial acumen, and problem-solving skills.
 * I am adept at results communication and presenting findings and with proven practical knowledge of advanced visialization tools such as PowerBI and Tableau.
