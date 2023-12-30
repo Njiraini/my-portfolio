@@ -1,5 +1,12 @@
 # My Resume
-## Data Analytics 
+
+## In Summary 
+* Bsc Statistics
+* Seasoned track record in data analytics, data strategy and governance
+* Over 5 years experience in the field of data
+* Well-decorated delivery record
+* Ready to adapt and learn!
+* [my linkedIn Profile](www.linkedin.com/in/eric-njiraini)
 
 ### Who am I? 
 * I am a result-driven and assiduous professional in Data analytics.
@@ -21,8 +28,11 @@ Key Modules covered:
 ## Professional Experience
 #### BURN MANUFACTURING (since 2019- todate)
 ##### Data Lead (Jan-2023-todate)
-Oversee all data operations related to the support of the field ops & commercial departments including dashboards creation and maintenance, 
-regular reporting, big data analytics etc.
+I oversee all data operations related to commercial operations such as
+1. creation of data collection tools
+2. control of data quality and integrity on commercial related systems such as ERP, built-in internal systems
+3. oversee integration of data infrastrusture with existing and new IT systems such as CRM (3CX), SharePoint
+4. Acting database Administrator, ensuring data access, security and privacy are maintained with regards to the Data Protection Act 2019
 ###### Key Accomplishments:
 * Creation of a Product registration pipeline from distribution to sale
 * Oversight of Implementation of a new Data architecture channeled from AWS to the users
