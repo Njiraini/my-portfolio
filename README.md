@@ -1,81 +1,189 @@
-# My Resume
+# ERIC MBURU NJIRAINI
 
-## In Summary 
-* Bsc Statistics
-* Seasoned track record in data analytics, data strategy and governance
-* Over 5 years experience in the field of data
-* Well-decorated delivery record
-* Ready to adapt and learn!
-* [my linkedIn Profile](www.linkedin.com/in/eric-njiraini)
+Nairobi, KE | Phone: +254 700 463 660
+Email: [menjiraini@gmail.com](mailto:menjiraini@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/eric-njiraini/)
 
-### Who am I? 
-* I am a result-driven and assiduous professional in Data analytics.
-* I am a seasoned skillsman with a broad range of analytical tools (R, Python, Excel) accompanied with critical & analytical thinking, business and commercial acumen, and problem-solving skills.
-* I am adept at results communication and presenting findings and with proven practical knowledge of advanced visialization tools such as PowerBI and Tableau.
-* I have proven experience as a collaborative player in a fast-paced environment and willingness to go the extra mile to achieve corporate goals with experience in integrating software and programs related to data services.
+---
+
+## Summary
+
+I am an accomplished professional in data analytics with a track record of:
+
+* Driving data strategy and governance
+* Leading analytics teams
+* Delivering impactful business intelligence solutions
+
+I excel in:
+
+* Building scalable data systems
+* Mentoring analysts
+* Translating complex data into strategic insights
+
+My core strengths include cross-functional collaboration, data governance, and developing self-service analytics platforms. I thrive in dynamic environments where data is central to innovation and growth.
+
+---
+
+## Professional Experience
+
+### Burn Manufacturing
+
+*Cookstoves Manufacturing, Distribution & Carbon Developer – Nairobi, Kenya*
+
+#### Data Lead / Senior BI Analyst
+
+**Jan 2023 – Present**
+
+* Lead a cross-functional team of 4 (on-site and remote) delivering strategic data initiatives aligned to the company’s OKRs.
+* Designed and implemented Burn’s Data Governance Strategy with practical execution roadmaps.
+* Recruited, trained, and mentored data team members on visualization, wrangling, stakeholder engagement, and storytelling.
+* Provided strategic advisory on business-critical solutions: ERP (MS Dynamics), CRMs, and cloud architectures.
+* Advocated for Data Quality by implementing validation rules, SLAs, and monitoring systems.
+* Developed and automated data pipelines using R, Python, AWS Glue, and Lambda.
+* Led PayGo analytics for credit risk metrics (repayment rate, PAR, default rate).
+* Built a Power BI reporting suite with 20+ dashboards for exec-level decision-making.
+* Rolled out a self-service analytics platform (Metabase), reducing reporting turnaround by 70%.
+* Played a key role in data centralization and migration onto AWS (architecture, data lake).
+* Digitized product warranty registration via mobile-first Kobo Collect tools.
+* Facilitated ArcGIS integration for geo-market analytics, boosting sales penetration by 70%.
+
+**Analytics Models & Solutions Designed:**
+
+* Sales Sampling Model
+* Customer Segmentation Model (B2B focus)
+* Market Penetration Analysis
+* Debt Ceiling Model for distributors
+
+---
+
+#### Business Intelligence Analyst
+
+**Jan 2020 – Jan 2023**
+
+* Developed 15+ Power BI dashboards, cutting decision-making time significantly.
+* Introduced data storytelling for insight presentation, improving data comprehension by 37%.
+* Automated 90% of repetitive reporting using R and Python.
+* Introduced R and Python for big data processing and trained the internal team.
+* Implemented an on-prem data warehouse as a stop-gap prior to AWS migration.
+* Recognized as “Employee of the Month” (March 2022) for analytics leadership.
+
+---
+
+### Dalberg Research
+
+*Market Research Company – Nairobi, Kenya*
+
+#### Data Processing Officer
+
+**Apr 2017 – Sep 2019**
+
+* Designed and rolled out data collection modules (SurveyToGo, Kobo Collect, ODK).
+* Conducted data analysis and reporting to inform business decisions.
+* Built Excel and Power BI dashboards for advanced analytics and storytelling.
+* Collaborated with LOCAN team on geospatial analytics for real-world problems.
+
+---
+
+### Kenya National Bureau of Statistics
+
+*Nairobi, Kenya*
+
+#### Research Intern
+
+**2017**
+
+* Created data collection tools for CPI and policy benchmarking.
+* Developed a CPI calculator for pricing analysis across Kenyan markets.
+
+---
 
 ## Education
-#### BACHELOR OF SCIENCE (BSc) STATISTICS
-##### JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY | Kenya | 2018
-Key Modules covered: 
+
+### University of East London
+
+**Master of Science in Data Science (2024 – 2026)**
+*In Progress*
+
+### Jomo Kenyatta University of Agriculture and Technology
+
+**Bachelor of Science in Statistics (2014 – 2018)**
+*Graduated Nov 2018*
+
+Key Modules:
+
 * Theory of Estimation
 * Probability and Statistics
 * Statistical Programming
 * Hypotheses Testing
-* Research Methodology and Project Management
+* Research Methodology & Project Management
 * Entrepreneurship
 
-## Professional Experience
-#### BURN MANUFACTURING (since 2019- todate)
-##### Data Lead (Jan-2023-todate)
-I oversee all data operations related to commercial operations such as
-1. creation of data collection tools
-2. control of data quality and integrity on commercial related systems such as ERP, built-in internal systems
-3. oversee integration of data infrastrusture with existing and new IT systems such as CRM (3CX), SharePoint
-4. Acting database Administrator, ensuring data access, security and privacy are maintained with regards to the Data Protection Act 2019
-###### Key Accomplishments:
-* Creation of a Product registration pipeline from distribution to sale
-* Oversight of Implementation of a new Data architecture channeled from AWS to the users
-* Leading a team of data scientists, data analysts and Business Intelligence analysts on matters data operations
-* Creation of a successful data support wing aligned to field Operations.
+---
 
-##### BUSINESS INTELLIGENCE ANALYST 
-* Provide oversight on data-driven projects such as modelling and mapping points of sale, modelling end user sales tool for sales prediction, modeling KPI trackers, training enumerators, performing a need-based analysis for the team
-* Liaising departmental consumers and data & analytics department by introducing ISL (Information as a second language) to make information flow easily and effectively from the department to the consumer.
-  
-###### Key Accomplishments:
-* Setting up of a Locally hosted Data warehouse: ETL and maintaining data in the warehouse via R, MySQL, and python.
-* Generate daily and monthly reports on failure, warranty and repair claims, carbon crediting, commercial and operational efficiency through modeling KPI tracking, maintaining databases, and assisting broader team to implement B2B and B2C models across 9 countries.
-* Creation of KPI dashboards to support the commercial team assess their performance.
-* Creation of the Market Availability Predictor tool in Excel to predict the target market at county and subcounty level focusing on both micro and macro-economic factors such as the GDP, CPI and PMI.
-* Development of a Stove Failure prediction model- ton inform the company on the lifetime of the products.
-  
-##### BUSINESS INTELLIGENCE JUNIOR ANALYST
-Working closely with all departments that generate and consume homegrown data including after sales, market research, commercial, carbon and new product development departments to validate data and deliver quality data output that is usable for strategic decision making. 
-###### Key Accomplishments:
-* Generate BI reports, end consumer dashboards, and data models with the help of BI tools such as power BI and MS-Office products available in the organization and present consequent reports to management.
-* Developing data models for data intensive projects to spit invalid and valid data, applying standards where possible including TAM-SAM-SOM market predictor, end consumer demand and sales models, skills gap analysis for the BI Team.
-* Generating automation SOP’s and algorithms to be used across the department by fellow analysts.
-  
-##### MARKET RESEARCH ASSISTANT
-Reporting and building insight on Burn Manufacturing’s expansion markets financial performance against plans and forecasts, P&L and cash flows.
-Design and implement from scratch company’s sales and reporting framework and systems to ensure timely financial and operating metrics available for management and board reviews.
-###### Key Accomplishments:
-* Data Collection of Burn stoves fuel usage across the country.
-* Creation of a Reporting template in R-markdown to be used in generating PowerPoint slides.
-* Training fellow team members on Excel and Data analysis and reporting
+## Certifications
 
-#### DALBERG RESEARCH 2018 – 2019
-##### DATA PROCESSING CLERK
-Define the markets tendencies, including industry, company, project, contacts, and which market strategies can be used to attract clients. Develop opportunities in target markets with the support of marketing. Manage and coordinate existing projects. Provide advice on products and / or services offered.
-###### Key Accomplishments:
-* Development of reports for clients from data collected.
-* Oversight of field teams performance gauging it by the quality of data collected.
-* Creation of a data collection and correction pipeline for use by both junior and senior analysts for reporting.
+* **Tata Data Visualization: Empowering Business with Effective Insights** *(Oct 2023)*
 
-#### KENYA NATIONAL BUREAU OF STATISTICS • Kenya • 2017
-##### RESEARCH INTERN
-Benchmarking x-markets & Ah-hoc analysis. Single out specific process/policies/costs etc. and benchmark performance across markets. Review market view on pricing using consistent assumption, pricing approvability.
-###### Key Accomplishments:
-* Creation of data collection tools for use by the Bureau
-* Development of a Consumer pricing index calculator.
+  * Created simulation visuals for Tata Consultancy
+  * Prepared meeting content for senior executives
+  * Communicated analysis for business decision-making
+
+* **Data Strategy and Governance** – Project Management Institute *(Sep 2023)*
+
+* **Communicating with Executives** – PMI *(Sep 2023)*
+
+* **Decision & Risk Management Professional (DEMP)** – PMI *(Sep 2023)*
+
+* **Python, R, Power BI, and Data Analytics Certifications**
+
+* **Data Visualization Certificate** – Tata
+
+* **Project Management Certificate** – PMI
+
+---
+
+## Skills
+
+### Technical
+
+* R, Python, SQL
+* Power BI, Tableau
+* AWS (Glue, Lambda, S3), Cloud computing
+* Data Pipeline Orchestration
+* Kobo Collect, ODK, SurveyToGO
+* Self-service BI (Metabase)
+* ETL/ELT pipelines
+
+### Soft Skills
+
+* Team Leadership & Mentorship
+* Cross-functional Collaboration
+* Strategic Communication
+* Executive Engagement
+* Critical Thinking & Problem Solving
+
+---
+
+## Languages
+
+* English
+* Swahili
+
+---
+
+## Memberships
+
+* Royal Statistical Society
+* Kenya National Statistical Society
+
+---
+
+## References
+
+**Prince Orora**
+*Global Director, Sales Operations – Burn Manufacturing*
+Email: [prince.orora@burnmfg.com](mailto:prince.orora@burnmfg.com) | Phone: +254 711 476 444
+
+**Francis Gichere**
+*Data Scientist – CIC Insurance*
+Phone: +254 719 188 329
