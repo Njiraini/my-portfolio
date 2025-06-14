@@ -177,13 +177,3 @@ Key Modules:
 * Kenya National Statistical Society
 
 ---
-
-## References
-
-**Prince Orora**
-*Global Director, Sales Operations – Burn Manufacturing*
-Email: [prince.orora@burnmfg.com](mailto:prince.orora@burnmfg.com) | Phone: +254 711 476 444
-
-**Francis Gichere**
-*Data Scientist – CIC Insurance*
-Phone: +254 719 188 329
